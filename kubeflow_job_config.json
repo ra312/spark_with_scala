@@ -1,0 +1,1 @@
+{"pipeline_name": "my-pipeline-name", "kubeflow_job_name": "my-kubeflow-job-name", "user_name": "my-user-name", "script_name": "my-script-name"}
